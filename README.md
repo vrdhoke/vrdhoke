@@ -8,6 +8,7 @@
 
 <p align="center">
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrdhoke&layout=compact" align="center" alt="GitHub Readme Stats" />
+ <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vrdhoke" align="center" alt="GitHub Readme Stats" />
 </p>
 
 </p>
