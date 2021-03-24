@@ -15,7 +15,7 @@
   
   <br><br>
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [vrdhoke](vaibhavdhoke1@gmail.com);
+- 📫 How to reach me: [email](vaibhavdhoke1@gmail.com);
 
 **Languages and Tools:**  
 
