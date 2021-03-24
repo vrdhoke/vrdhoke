@@ -8,5 +8,8 @@
 
 <p align="center">
  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrdhoke&langs_count=8" align="center" alt="GitHub Readme Stats" />
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="center" alt="GitHub Readme Stats" />
 </p>
+
 </p>
+
