@@ -12,9 +12,10 @@
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrdhoke&layout=compact" width="500" height="320" />
   
+  
+  
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 📫 How to reach me: [@abhisheknaiidu](vaibhavdhoke1@gmail.com);
 
 **Languages and Tools:**  
 
