@@ -10,12 +10,12 @@
  <img width="500px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" alt="GitHub Readme Stats" />
 
 <p align="center">
-  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrdhoke&layout=compact" align="center" alt="GitHub Readme Stats" />
 </a>
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+
 
 </p>
 
