@@ -16,5 +16,3 @@
 </p>
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrdhoke&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)![Vaibhav's GitHub stats](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif]]
