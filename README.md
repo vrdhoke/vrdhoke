@@ -13,9 +13,9 @@
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrdhoke&layout=compact" width="500" height="320" />
   
   
-  
+  <br><br>
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](vaibhavdhoke1@gmail.com);
+- 📫 How to reach me: [vrdhoke](vaibhavdhoke1@gmail.com);
 
 **Languages and Tools:**  
 
