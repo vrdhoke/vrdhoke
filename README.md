@@ -11,8 +11,5 @@
 </p>
 <p align="right">
  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrdhoke&langs_count=8" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </p>
 </p>
-
